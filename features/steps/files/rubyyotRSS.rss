@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Posts from Rubyyot.com</title>
+    <description>Recent Posts</description>
+    <link>http://rubyyot.com/posts.rss</link>
+    <item>
+      <title>There is no way to add existing things to projects</title>
+      <description>&lt;p&gt;It would be nice to add all your things and once they are all listed be able to add them to projects.  You may not be sure where a thing will attach itself too.  It may move around a little from thing to action to reference.  I will check back in a month.&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Nov 2008 11:29:51 -0600</pubDate>
+      <link>http://rubyyot.com/posts/6.rss</link>
+      <guid>http://rubyyot.com/posts/6.rss</guid>
+    </item>
+    <item>
+      <title>Excited to try Rubyyot.com</title>
+      <description>&lt;p&gt;xxx&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Nov 2008 09:32:18 -0600</pubDate>
+      <link>http://rubyyot.com/posts/4.rss</link>
+      <guid>http://rubyyot.com/posts/4.rss</guid>
+    </item>
+    <item>
+      <title>Continued Progress</title>
+      <description>&lt;p&gt;I&amp;#8217;ve made a number of enhancements over the weekend.  These include:&lt;/p&gt;
+
+
+	&lt;ul&gt;
+	&lt;li&gt;Basic user profiles&lt;/li&gt;
+		&lt;li&gt;Opening up the site to users that are not logged in so that they can look around&lt;/li&gt;
+		&lt;li&gt;Rss feed for posts&lt;/li&gt;
+	&lt;/ul&gt;
+
+
+	&lt;p&gt;You may notice that the profile page has an area to enter your delicious username.  This is for my next enhancement which is to add user bookmarks from delicious (at first, more to follow) to the tags page.&lt;/p&gt;
+
+
+	&lt;p&gt;Thanks to all those that have come and looked through my site and given me feedback, your continued support is invaluable.&lt;/p&gt;</description>
+      <pubDate>Tue, 14 Oct 2008 00:18:39 -0500</pubDate>
+      <link>http://rubyyot.com/posts/3.rss</link>
+      <guid>http://rubyyot.com/posts/3.rss</guid>
+    </item>
+    <item>
+      <title>Launch Date</title>
+      <description>&lt;p&gt;I am very excited that I moved rubyyot.com into production today.  I think that it is a very functional site right now, but there are still a number of changes that I know I want to make.  Still, I wanted to start using it. :D  So it&amp;#8217;s out there and I have begun.  If you are using it you will be seeing changes made, frequently at first, then less and less over time.  If you have comments or feedback please sign in and &lt;a href="http://rubyyot.com/users/rubyyot/inbox"&gt;leave me a comment.&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Thu, 09 Oct 2008 22:00:47 -0500</pubDate>
+      <link>http://rubyyot.com/posts/1.rss</link>
+      <guid>http://rubyyot.com/posts/1.rss</guid>
+    </item>
+  </channel>
+</rss>

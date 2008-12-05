@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/">
+  <channel>
+    <title>Delicious hotlist</title>
+    <link>http://delicious.com/</link>
+    <description>new and hot bookmarks</description>
+    <atom:link rel="self" type="application/rss+xml" href="http://feeds.delicious.com/v2/rss/?count=15"/>
+    <item>
+      <title>jQuery Intellisense in VS 2008 - ScottGu's Blog</title>
+      <pubDate>Sun, 30 Nov 2008 03:40:29 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/f87ea0d72cfc7a9863e78ae6f01ff359#</guid>
+      <link>http://weblogs.asp.net/scottgu/archive/2008/11/21/jquery-intellisense-in-vs-2008.aspx</link>
+      <dc:creator></dc:creator>
+      <comments>http://delicious.com/url/f87ea0d72cfc7a9863e78ae6f01ff359</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/f87ea0d72cfc7a9863e78ae6f01ff359</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/">'s bookmarks</source>
+      <category domain="http://delicious.com//">jquery</category>
+      <category domain="http://delicious.com//">intellisense</category>
+      <category domain="http://delicious.com//">visualstudio</category>
+      <category domain="http://delicious.com//">javascript</category>
+      <category domain="http://delicious.com//">vs2008</category>
+      <category domain="http://delicious.com//">asp.net</category>
+      <category domain="http://delicious.com//">microsoft</category>
+      <category domain="http://delicious.com//">.net</category>
+      <category domain="http://delicious.com//">tips</category>
+      <category domain="http://delicious.com//">visual-studio</category>
+    </item>
+    <item>
+      <title>vim mind share soaring: roundup of 10 vim articles, recent and older gems — be present now</title>
+      <pubDate>Sun, 30 Nov 2008 03:40:29 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/0ac1159c5a8f5d329060fbefe10f7b5b#</guid>
+      <link>http://durdn.com/blog/2008/11/26/vim-mind-share-soaring-roundup-of-10-vim-articles-recent-and-older-gems/</link>
+      <dc:creator></dc:creator>
+      <comments>http://delicious.com/url/0ac1159c5a8f5d329060fbefe10f7b5b</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/0ac1159c5a8f5d329060fbefe10f7b5b</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/">'s bookmarks</source>
+      <category domain="http://delicious.com//">vim</category>
+      <category domain="http://delicious.com//">tips</category>
+      <category domain="http://delicious.com//">programming</category>
+      <category domain="http://delicious.com//">vi</category>
+      <category domain="http://delicious.com//">editor</category>
+      <category domain="http://delicious.com//">tutorial</category>
+      <category domain="http://delicious.com//">resources</category>
+      <category domain="http://delicious.com//">tutorials</category>
+      <category domain="http://delicious.com//">tools</category>
+      <category domain="http://delicious.com//">links</category>
+    </item>
+    <item>
+      <title>Webdesigner Depot</title>
+      <pubDate>Sun, 30 Nov 2008 03:40:29 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/d974119ec29220ec4a87c1f720a23fd4#</guid>
+      <link>http://www.webdesignerdepot.com/</link>
+      <dc:creator></dc:creator>
+      <comments>http://delicious.com/url/d974119ec29220ec4a87c1f720a23fd4</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/d974119ec29220ec4a87c1f720a23fd4</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/">'s bookmarks</source>
+      <category domain="http://delicious.com//">webdesign</category>
+      <category domain="http://delicious.com//">design</category>
+      <category domain="http://delicious.com//">web</category>
+      <category domain="http://delicious.com//">blog</category>
+      <category domain="http://delicious.com//">tutorials</category>
+      <category domain="http://delicious.com//">tools</category>
+      <category domain="http://delicious.com//">css</category>
+      <category domain="http://delicious.com//">tips</category>
+      <category domain="http://delicious.com//">resources</category>
+      <category domain="http://delicious.com//">photoshop</category>
+    </item>
+    <item>
+      <title>Advogato: Blurring of MVC lines: Programming the Web Browser.</title>
+      <pubDate>Sun, 30 Nov 2008 03:40:29 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/54c18fe4fa18a85d4d71ca1f0a630a92#</guid>
+      <link>http://advogato.org/article/993.html</link>
+      <dc:creator></dc:creator>
+      <comments>http://delicious.com/url/54c18fe4fa18a85d4d71ca1f0a630a92</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/54c18fe4fa18a85d4d71ca1f0a630a92</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/">'s bookmarks</source>
+      <category domain="http://delicious.com//">mvc</category>
+      <category domain="http://delicious.com//">javascript</category>
+      <category domain="http://delicious.com//">programming</category>
+      <category domain="http://delicious.com//">ajax</category>
+      <category domain="http://delicious.com//">webdev</category>
+      <category domain="http://delicious.com//">web</category>
+      <category domain="http://delicious.com//">framework</category>
+      <category domain="http://delicious.com//">web2.0</category>
+      <category domain="http://delicious.com//">python</category>
+      <category domain="http://delicious.com//">pyjamas</category>
+    </item>
+    <item>
+      <title>ShoutEm - Roll your own Microblogging Social Networking</title>
+      <pubDate>Sun, 30 Nov 2008 03:40:29 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/14c0ef3ae90839de92f630a08c1627a0#</guid>
+      <link>http://www.shoutem.com/</link>
+      <dc:creator></dc:creator>
+      <comments>http://delicious.com/url/14c0ef3ae90839de92f630a08c1627a0</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/14c0ef3ae90839de92f630a08c1627a0</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/">'s bookmarks</source>
+      <category domain="http://delicious.com//">microblogging</category>
+      <category domain="http://delicious.com//">socialnetworking</category>
+      <category domain="http://delicious.com//">twitter</category>
+      <category domain="http://delicious.com//">mobile</category>
+      <category domain="http://delicious.com//">social</category>
+      <category domain="http://delicious.com//">web2.0</category>
+      <category domain="http://delicious.com//">socialnetwork</category>
+      <category domain="http://delicious.com//">tools</category>
+      <category domain="http://delicious.com//">shoutem</category>
+      <category domain="http://delicious.com//">whitelabel</category>
+    </item>
+    <item>
+      <title>Mumbai under attack - The Big Picture - Boston.com</title>
+      <pubDate>Sun, 30 Nov 2008 03:40:29 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/37af27f1dc5b6a401d6964f9919b9f23#</guid>
+      <link>http://www.boston.com/bigpicture/2008/11/mumbai_under_attack.html</link>
+      <dc:creator></dc:creator>
+      <comments>http://delicious.com/url/37af27f1dc5b6a401d6964f9919b9f23</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/37af27f1dc5b6a401d6964f9919b9f23</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/">'s bookmarks</source>
+      <category domain="http://delicious.com//">mumbai</category>
+      <category domain="http://delicious.com//">terrorism</category>
+      <category domain="http://delicious.com//">photography</category>
+      <category domain="http://delicious.com//">india</category>
+      <category domain="http://delicious.com//">photos</category>
+      <category domain="http://delicious.com//">news</category>
+      <category domain="http://delicious.com//">photojournalism</category>
+      <category domain="http://delicious.com//">politics</category>
+      <category domain="http://delicious.com//">attack</category>
+      <category domain="http://delicious.com//">journalism</category>
+    </item>
+    <item>
+      <title>15 Simple Ways to Overcome Anger | ThinkSimpleNow.com</title>
+      <pubDate>Sun, 30 Nov 2008 03:40:29 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/c18502b4a038b29e3866a74b62a9750b#</guid>
+      <link>http://thinksimplenow.com/happiness/15-simple-ways-to-overcome-anger/</link>
+      <dc:creator></dc:creator>
+      <comments>http://delicious.com/url/c18502b4a038b29e3866a74b62a9750b</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/c18502b4a038b29e3866a74b62a9750b</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/">'s bookmarks</source>
+      <category domain="http://delicious.com//">anger</category>
+      <category domain="http://delicious.com//">lifehacks</category>
+      <category domain="http://delicious.com//">self-improvement</category>
+      <category domain="http://delicious.com//">psychology</category>
+      <category domain="http://delicious.com//">tips</category>
+      <category domain="http://delicious.com//">stress</category>
+      <category domain="http://delicious.com//">health</category>
+      <category domain="http://delicious.com//">advice</category>
+      <category domain="http://delicious.com//">howto</category>
+      <category domain="http://delicious.com//">selfhelp</category>
+    </item>
+    <item>
+      <title>Notify me when it's up!</title>
+      <pubDate>Sun, 30 Nov 2008 03:40:29 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/45735372ed9e5ecc87c1bfd41c7e2316#</guid>
+      <link>http://notifymewhenitsup.com/</link>
+      <dc:creator></dc:creator>
+      <comments>http://delicious.com/url/45735372ed9e5ecc87c1bfd41c7e2316</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/45735372ed9e5ecc87c1bfd41c7e2316</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/">'s bookmarks</source>
+      <category domain="http://delicious.com//">website</category>
+      <category domain="http://delicious.com//">tracking</category>
+      <category domain="http://delicious.com//">utilities</category>
+      <category domain="http://delicious.com//">web</category>
+      <category domain="http://delicious.com//">uptime</category>
+      <category domain="http://delicious.com//">tools</category>
+      <category domain="http://delicious.com//">notify</category>
+      <category domain="http://delicious.com//">internet</category>
+      <category domain="http://delicious.com//">troubleshooting</category>
+      <category domain="http://delicious.com//">web2.0</category>
+    </item>
+    <item>
+      <title>10 Of The Best Linux Desktop Customization Screenshots To Inspire Your Creativity - Make Tech Easier</title>
+      <pubDate>Sun, 30 Nov 2008 03:40:29 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/781e1189e1907f676993630eff85b079#</guid>
+      <link>http://maketecheasier.com/10-of-the-best-linux-desktop-customization-screenshots-to-inspire-your-creativity/2008/11/28/</link>
+      <dc:creator></dc:creator>
+      <comments>http://delicious.com/url/781e1189e1907f676993630eff85b079</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/781e1189e1907f676993630eff85b079</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/">'s bookmarks</source>
+      <category domain="http://delicious.com//">linux</category>
+      <category domain="http://delicious.com//">ubuntu</category>
+      <category domain="http://delicious.com//">desktop</category>
+      <category domain="http://delicious.com//">theme</category>
+      <category domain="http://delicious.com//">wallpaper</category>
+      <category domain="http://delicious.com//">unix</category>
+      <category domain="http://delicious.com//">opensource</category>
+      <category domain="http://delicious.com//">customization</category>
+      <category domain="http://delicious.com//">gnome</category>
+      <category domain="http://delicious.com//">themes</category>
+    </item>
+    <item>
+      <title>Free Twitter Background Template</title>
+      <pubDate>Sun, 30 Nov 2008 03:40:29 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/c0681de6370a157de829187e98805368#</guid>
+      <link>http://theclosetentrepreneur.com/create-a-twitter-background-using-powerpoint</link>
+      <dc:creator></dc:creator>
+      <comments>http://delicious.com/url/c0681de6370a157de829187e98805368</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/c0681de6370a157de829187e98805368</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/">'s bookmarks</source>
+      <category domain="http://delicious.com//">twitter</category>
+      <category domain="http://delicious.com//">tutorial</category>
+      <category domain="http://delicious.com//">templates</category>
+      <category domain="http://delicious.com//">powerpoint</category>
+      <category domain="http://delicious.com//">tools</category>
+      <category domain="http://delicious.com//">webdesign</category>
+      <category domain="http://delicious.com//">tips</category>
+      <category domain="http://delicious.com//">background</category>
+      <category domain="http://delicious.com//">howto</category>
+      <category domain="http://delicious.com//">socialmedia</category>
+    </item>
+    <item>
+      <title>C++ and the linker | copton.net</title>
+      <pubDate>Sun, 30 Nov 2008 03:40:29 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/46426326f7de7a1ea808dd5d2ae614a4#</guid>
+      <link>http://blog.copton.net/articles/linker/index.html</link>
+      <dc:creator></dc:creator>
+      <comments>http://delicious.com/url/46426326f7de7a1ea808dd5d2ae614a4</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/46426326f7de7a1ea808dd5d2ae614a4</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/">'s bookmarks</source>
+      <category domain="http://delicious.com//">c++</category>
+      <category domain="http://delicious.com//">programming</category>
+      <category domain="http://delicious.com//">linker</category>
+      <category domain="http://delicious.com//">compiler</category>
+      <category domain="http://delicious.com//">gcc</category>
+      <category domain="http://delicious.com//">linking</category>
+      <category domain="http://delicious.com//">tools</category>
+      <category domain="http://delicious.com//">c</category>
+      <category domain="http://delicious.com//">reference</category>
+      <category domain="http://delicious.com//">howto</category>
+    </item>
+    <item>
+      <title>worldclock.swf (application/x-shockwave-flash Object)</title>
+      <pubDate>Sun, 30 Nov 2008 03:40:29 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/a737298c34750fdee269cc6a4ddc8900#</guid>
+      <link>http://www.shambles.net/worldclock/worldclock.swf</link>
+      <dc:creator></dc:creator>
+      <comments>http://delicious.com/url/a737298c34750fdee269cc6a4ddc8900</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/a737298c34750fdee269cc6a4ddc8900</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/">'s bookmarks</source>
+      <category domain="http://delicious.com//">statistics</category>
+      <category domain="http://delicious.com//">clock</category>
+      <category domain="http://delicious.com//">world</category>
+      <category domain="http://delicious.com//">interesting</category>
+      <category domain="http://delicious.com//">population</category>
+      <category domain="http://delicious.com//">time</category>
+      <category domain="http://delicious.com//">timeline</category>
+      <category domain="http://delicious.com//">worldclock</category>
+      <category domain="http://delicious.com//">flash</category>
+      <category domain="http://delicious.com//">resources</category>
+    </item>
+    <item>
+      <title>Solve Puzzles for Science | Foldit</title>
+      <pubDate>Sun, 30 Nov 2008 03:40:29 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/3f6dcad05a757a6d03386a8c564e4e2d#</guid>
+      <link>http://fold.it/portal/</link>
+      <dc:creator></dc:creator>
+      <comments>http://delicious.com/url/3f6dcad05a757a6d03386a8c564e4e2d</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/3f6dcad05a757a6d03386a8c564e4e2d</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/">'s bookmarks</source>
+      <category domain="http://delicious.com//">science</category>
+      <category domain="http://delicious.com//">games</category>
+      <category domain="http://delicious.com//">research</category>
+      <category domain="http://delicious.com//">game</category>
+      <category domain="http://delicious.com//">protein</category>
+      <category domain="http://delicious.com//">puzzles</category>
+      <category domain="http://delicious.com//">education</category>
+      <category domain="http://delicious.com//">learning</category>
+      <category domain="http://delicious.com//">biology</category>
+      <category domain="http://delicious.com//">fun</category>
+    </item>
+    <item>
+      <title>pyjamas</title>
+      <pubDate>Sun, 30 Nov 2008 03:40:29 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/a5d024f17cb4cc6f1e60d96e4a8b8728#</guid>
+      <link>http://pyjs.org/</link>
+      <dc:creator></dc:creator>
+      <comments>http://delicious.com/url/a5d024f17cb4cc6f1e60d96e4a8b8728</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/a5d024f17cb4cc6f1e60d96e4a8b8728</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/">'s bookmarks</source>
+      <category domain="http://delicious.com//">python</category>
+      <category domain="http://delicious.com//">javascript</category>
+      <category domain="http://delicious.com//">ajax</category>
+      <category domain="http://delicious.com//">programming</category>
+      <category domain="http://delicious.com//">webdev</category>
+      <category domain="http://delicious.com//">pyjamas</category>
+      <category domain="http://delicious.com//">web</category>
+      <category domain="http://delicious.com//">gwt</category>
+      <category domain="http://delicious.com//">toolkit</category>
+      <category domain="http://delicious.com//">webapps</category>
+    </item>
+    <item>
+      <title>40+ Tutorials for Working with Wacom Tablets</title>
+      <pubDate>Sun, 30 Nov 2008 03:40:29 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/c147d59658d4ca271f6cc5c40dd263c9#</guid>
+      <link>http://designm.ag/tutorials/wacom-tutorials/</link>
+      <dc:creator></dc:creator>
+      <comments>http://delicious.com/url/c147d59658d4ca271f6cc5c40dd263c9</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/c147d59658d4ca271f6cc5c40dd263c9</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/">'s bookmarks</source>
+      <category domain="http://delicious.com//">wacom</category>
+      <category domain="http://delicious.com//">tutorials</category>
+      <category domain="http://delicious.com//">tablet</category>
+      <category domain="http://delicious.com//">tutorial</category>
+      <category domain="http://delicious.com//">photoshop</category>
+      <category domain="http://delicious.com//">design</category>
+      <category domain="http://delicious.com//">tablets</category>
+      <category domain="http://delicious.com//">reference</category>
+      <category domain="http://delicious.com//">resources</category>
+      <category domain="http://delicious.com//">drawing</category>
+    </item>
+  </channel>
+</rss>

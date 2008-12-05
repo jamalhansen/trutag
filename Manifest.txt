@@ -1,0 +1,16 @@
+History.txt
+Manifest.txt
+PostInstall.txt
+README.rdoc
+Rakefile
+lib/tRuTag.rb
+script/console
+script/console.cmd
+script/destroy
+script/destroy.cmd
+script/generate
+script/generate.cmd
+spec/spec.opts
+spec/spec_helper.rb
+spec/tRuTag_spec.rb
+tasks/rspec.rake

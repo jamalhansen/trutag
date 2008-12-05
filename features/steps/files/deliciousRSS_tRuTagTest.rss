@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/">
+  <channel>
+    <title>Delicious/tRuTagTest</title>
+    <link>http://delicious.com/tRuTagTest</link>
+    <description>bookmarks posted by tRuTagTest</description>
+    <atom:link rel="self" type="application/rss+xml" href="http://feeds.delicious.com/v2/rss/tRuTagTest?count=15"/>
+    <item>
+      <title>ADO Objects and Collections</title>
+      <pubDate>Wed, 31 Jan 2007 16:00:02 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/f9815a1e9275a64a1b583b066cea9c8e#tRuTagTest</guid>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/ado270/htm/mdconadoobjectmodel.asp</link>
+      <dc:creator><![CDATA[tRuTagTest]]></dc:creator>
+      <comments>http://delicious.com/url/f9815a1e9275a64a1b583b066cea9c8e</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/f9815a1e9275a64a1b583b066cea9c8e</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/tRuTagTest">tRuTagTest's bookmarks</source>
+      <category domain="http://delicious.com/tRuTagTest/">technical</category>
+      <category domain="http://delicious.com/tRuTagTest/">Bookmarks</category>
+    </item>
+    <item>
+      <title>How to perform date operations in SQL Sever. - .Net Articles &amp; Samples</title>
+      <pubDate>Wed, 24 Jan 2007 17:36:44 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/55e0dd1b8232d6345cb8bc7717fdf37f#tRuTagTest</guid>
+      <link>http://www.devasp.net/net/articles/display/138.html</link>
+      <dc:creator><![CDATA[tRuTagTest]]></dc:creator>
+      <comments>http://delicious.com/url/55e0dd1b8232d6345cb8bc7717fdf37f</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/55e0dd1b8232d6345cb8bc7717fdf37f</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/tRuTagTest">tRuTagTest's bookmarks</source>
+      <category domain="http://delicious.com/tRuTagTest/">technical</category>
+      <category domain="http://delicious.com/tRuTagTest/">Bookmarks</category>
+      <category domain="http://delicious.com/tRuTagTest/">reference</category>
+      <category domain="http://delicious.com/tRuTagTest/">functions</category>
+      <category domain="http://delicious.com/tRuTagTest/">database</category>
+      <category domain="http://delicious.com/tRuTagTest/">date</category>
+      <category domain="http://delicious.com/tRuTagTest/">sqlserver</category>
+      <category domain="http://delicious.com/tRuTagTest/">sql</category>
+    </item>
+    <item>
+      <title>Enterprise Development</title>
+      <pubDate>Sat, 14 May 2005 00:25:32 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/4c7c4a927d69621d1cefd9e30d5754c5#tRuTagTest</guid>
+      <link>http://msdn.microsoft.com/archive/default.asp?url=/archive/en-us/dnarsql7/html/access2sql.asp</link>
+      <dc:creator><![CDATA[tRuTagTest]]></dc:creator>
+      <comments>http://delicious.com/url/4c7c4a927d69621d1cefd9e30d5754c5</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/4c7c4a927d69621d1cefd9e30d5754c5</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/tRuTagTest">tRuTagTest's bookmarks</source>
+      <category domain="http://delicious.com/tRuTagTest/">technical</category>
+      <category domain="http://delicious.com/tRuTagTest/">Bookmarks</category>
+    </item>
+    <item>
+      <title>How to add support for ASP.NET in Internet Information Services 5 and 5.1</title>
+      <pubDate>Wed, 04 May 2005 17:52:58 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/598afdb2ae1519a19dba402403cf81fa#tRuTagTest</guid>
+      <link>http://support.microsoft.com/default.aspx?scid=kb;en-us;555150</link>
+      <dc:creator><![CDATA[tRuTagTest]]></dc:creator>
+      <comments>http://delicious.com/url/598afdb2ae1519a19dba402403cf81fa</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/598afdb2ae1519a19dba402403cf81fa</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/tRuTagTest">tRuTagTest's bookmarks</source>
+      <category domain="http://delicious.com/tRuTagTest/">technical</category>
+      <category domain="http://delicious.com/tRuTagTest/">Bookmarks</category>
+    </item>
+    <item>
+      <title>Installing ASP.NET (IIS 6.0)</title>
+      <pubDate>Wed, 04 May 2005 16:48:12 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/9928f77e8dddc312fcc761577ce23e0b#tRuTagTest</guid>
+      <link>http://www.microsoft.com/technet/prodtechnol/WindowsServer2003/Library/IIS/7ecaa5f3-5499-4887-8c9d-00aba71125df.mspx</link>
+      <dc:creator><![CDATA[tRuTagTest]]></dc:creator>
+      <comments>http://delicious.com/url/9928f77e8dddc312fcc761577ce23e0b</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/9928f77e8dddc312fcc761577ce23e0b</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/tRuTagTest">tRuTagTest's bookmarks</source>
+      <category domain="http://delicious.com/tRuTagTest/">technical</category>
+      <category domain="http://delicious.com/tRuTagTest/">Bookmarks</category>
+    </item>
+    <item>
+      <title>ASCII Map in Hexadecimal</title>
+      <pubDate>Thu, 27 Jan 2005 19:06:58 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/9d7d47c694160ae321ff8165455d81df#tRuTagTest</guid>
+      <link>http://adm.lacitec.on.ca/~ymicha/mcours/micro1/ascii-hex.html</link>
+      <dc:creator><![CDATA[tRuTagTest]]></dc:creator>
+      <comments>http://delicious.com/url/9d7d47c694160ae321ff8165455d81df</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/9d7d47c694160ae321ff8165455d81df</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/tRuTagTest">tRuTagTest's bookmarks</source>
+      <category domain="http://delicious.com/tRuTagTest/">technical</category>
+      <category domain="http://delicious.com/tRuTagTest/">Bookmarks</category>
+    </item>
+    <item>
+      <title>How to dynamically number rows in a SELECT Statement</title>
+      <pubDate>Wed, 26 Jan 2005 18:51:18 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/ccb219549d16b32e13853a5ce2891dac#tRuTagTest</guid>
+      <link>http://support.microsoft.com/default.aspx?scid=KB;EN-US;q186133</link>
+      <dc:creator><![CDATA[tRuTagTest]]></dc:creator>
+      <comments>http://delicious.com/url/ccb219549d16b32e13853a5ce2891dac</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/ccb219549d16b32e13853a5ce2891dac</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/tRuTagTest">tRuTagTest's bookmarks</source>
+      <category domain="http://delicious.com/tRuTagTest/">technical</category>
+      <category domain="http://delicious.com/tRuTagTest/">Bookmarks</category>
+      <category domain="http://delicious.com/tRuTagTest/">sql</category>
+      <category domain="http://delicious.com/tRuTagTest/">sqlserver</category>
+      <category domain="http://delicious.com/tRuTagTest/">database</category>
+      <category domain="http://delicious.com/tRuTagTest/">rownum</category>
+      <category domain="http://delicious.com/tRuTagTest/">rank</category>
+      <category domain="http://delicious.com/tRuTagTest/">programming</category>
+      <category domain="http://delicious.com/tRuTagTest/">mssql</category>
+    </item>
+    <item>
+      <title>Google Groups comp.database.ms-access</title>
+      <pubDate>Thu, 13 Jan 2005 02:14:36 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/99b1ab127dbfa86ef86de4c306f77265#tRuTagTest</guid>
+      <link>http://groups-beta.google.com/group/comp.database.ms-access/msg/97378c41b2f482a8?q=sastray@comcast_SpamBegone_.net&amp;hl=en&amp;lr=&amp;c2coff=1&amp;rnum=1</link>
+      <dc:creator><![CDATA[tRuTagTest]]></dc:creator>
+      <comments>http://delicious.com/url/99b1ab127dbfa86ef86de4c306f77265</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/99b1ab127dbfa86ef86de4c306f77265</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/tRuTagTest">tRuTagTest's bookmarks</source>
+      <category domain="http://delicious.com/tRuTagTest/">technical</category>
+      <category domain="http://delicious.com/tRuTagTest/">Bookmarks</category>
+    </item>
+    <item>
+      <title>Adobe Acrobat-MS Access VBA Code</title>
+      <pubDate>Thu, 13 Jan 2005 02:11:34 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/4f24c53df7835d879a4b8a527b58f230#tRuTagTest</guid>
+      <link>http://www.igetit.net/SampleCode/Adobe_Acrobat_vba_code.asp</link>
+      <dc:creator><![CDATA[tRuTagTest]]></dc:creator>
+      <comments>http://delicious.com/url/4f24c53df7835d879a4b8a527b58f230</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/4f24c53df7835d879a4b8a527b58f230</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/tRuTagTest">tRuTagTest's bookmarks</source>
+      <category domain="http://delicious.com/tRuTagTest/">technical</category>
+      <category domain="http://delicious.com/tRuTagTest/">Bookmarks</category>
+    </item>
+    <item>
+      <title>Using IIF or DECODE in SQL Server - ExtremeExperts</title>
+      <pubDate>Mon, 10 Jan 2005 20:58:32 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/1b5cf6abf5bc18feb31f2106dd3df47d#tRuTagTest</guid>
+      <link>http://www.extremeexperts.com/sql/FAQ/IIForDecode.aspx</link>
+      <dc:creator><![CDATA[tRuTagTest]]></dc:creator>
+      <comments>http://delicious.com/url/1b5cf6abf5bc18feb31f2106dd3df47d</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/1b5cf6abf5bc18feb31f2106dd3df47d</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/tRuTagTest">tRuTagTest's bookmarks</source>
+      <category domain="http://delicious.com/tRuTagTest/">technical</category>
+      <category domain="http://delicious.com/tRuTagTest/">Bookmarks</category>
+    </item>
+    <item>
+      <title>BUG Inserting Data into Temporary Table's Identity Column in Stored Procedure Fails</title>
+      <pubDate>Mon, 03 Jan 2005 21:15:00 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/f0b1b31feec9b50b878a2778621b1cff#tRuTagTest</guid>
+      <link>http://support.microsoft.com/default.aspx?scid=kb;en-us;234521</link>
+      <dc:creator><![CDATA[tRuTagTest]]></dc:creator>
+      <comments>http://delicious.com/url/f0b1b31feec9b50b878a2778621b1cff</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/f0b1b31feec9b50b878a2778621b1cff</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/tRuTagTest">tRuTagTest's bookmarks</source>
+      <category domain="http://delicious.com/tRuTagTest/">technical</category>
+      <category domain="http://delicious.com/tRuTagTest/">Bookmarks</category>
+    </item>
+    <item>
+      <title>Inside ADO.NET Batch Update</title>
+      <pubDate>Fri, 17 Dec 2004 22:45:22 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/204fda38e97a196aed8e545827f13cca#tRuTagTest</guid>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndive/html/data11082001.asp</link>
+      <dc:creator><![CDATA[tRuTagTest]]></dc:creator>
+      <comments>http://delicious.com/url/204fda38e97a196aed8e545827f13cca</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/204fda38e97a196aed8e545827f13cca</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/tRuTagTest">tRuTagTest's bookmarks</source>
+      <category domain="http://delicious.com/tRuTagTest/">technical</category>
+      <category domain="http://delicious.com/tRuTagTest/">Bookmarks</category>
+    </item>
+    <item>
+      <title>How To Demo of ADO AddNew, Update, Delete, Find and Filter</title>
+      <pubDate>Fri, 17 Dec 2004 18:13:24 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/bcaf08753fe9db86640d19e97a600737#tRuTagTest</guid>
+      <link>http://support.microsoft.com/default.aspx?scid=kb;en-us;193946</link>
+      <dc:creator><![CDATA[tRuTagTest]]></dc:creator>
+      <comments>http://delicious.com/url/bcaf08753fe9db86640d19e97a600737</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/bcaf08753fe9db86640d19e97a600737</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/tRuTagTest">tRuTagTest's bookmarks</source>
+      <category domain="http://delicious.com/tRuTagTest/">technical</category>
+      <category domain="http://delicious.com/tRuTagTest/">Bookmarks</category>
+    </item>
+    <item>
+      <title>ADO Find</title>
+      <pubDate>Fri, 17 Dec 2004 18:11:20 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/e0b4c67c66431f36e05dd39fc854fdb6#tRuTagTest</guid>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnima00/html/find.asp?frame=true</link>
+      <dc:creator><![CDATA[tRuTagTest]]></dc:creator>
+      <comments>http://delicious.com/url/e0b4c67c66431f36e05dd39fc854fdb6</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/e0b4c67c66431f36e05dd39fc854fdb6</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/tRuTagTest">tRuTagTest's bookmarks</source>
+      <category domain="http://delicious.com/tRuTagTest/">technical</category>
+      <category domain="http://delicious.com/tRuTagTest/">Bookmarks</category>
+    </item>
+    <item>
+      <title>DTS Query Strings in Visual Basic</title>
+      <pubDate>Fri, 17 Dec 2004 00:40:36 +0000</pubDate>
+      <guid isPermaLink="false">http://delicious.com/url/0f69e13ac7ca7ea7f64917c771fbede1#tRuTagTest</guid>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dtsprog/dtspapps_3sf7.asp?frame=true</link>
+      <dc:creator><![CDATA[tRuTagTest]]></dc:creator>
+      <comments>http://delicious.com/url/0f69e13ac7ca7ea7f64917c771fbede1</comments>
+      <wfw:commentRss>http://feeds.delicious.com/v2/rss/url/0f69e13ac7ca7ea7f64917c771fbede1</wfw:commentRss>
+      <source url="http://feeds.delicious.com/v2/rss/tRuTagTest">tRuTagTest's bookmarks</source>
+      <category domain="http://delicious.com/tRuTagTest/">technical</category>
+      <category domain="http://delicious.com/tRuTagTest/">Bookmarks</category>
+    </item>
+  </channel>
+</rss>

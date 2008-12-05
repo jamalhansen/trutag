@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <title>Ma.gnolia:  Bookmarks Tagged With "ruby"</title>
+  <id>tag:ma.gnolia.com,2005:Gnolia</id>
+  <generator uri="http://ma.gnolia.com" version="1.0">Ma.gnolia</generator>
+  <link href="http://ma.gnolia.com/atom/full/tags/ruby" rel="self" type="application/atom+xml"/>
+  <link href="http://ma.gnolia.com/tags/ruby" rel="alternate" type="text/html"/>
+  <updated>2008-11-30T01:06:07-08:00</updated>
+  <entry>
+    <author>
+      <name>fieldy1973</name>
+    </author>
+    <id>tag:ma.gnolia.com,2005:Ma.gnolia-stiyube</id>
+    <published>2008-11-30T01:06:07-08:00</published>
+    <updated>2008-11-30T01:06:07-08:00</updated>
+    <link href="http://almosteffortless.com/2008/10/24/easy-upload-via-url-with-attachment_fu/" rel="alternate" type="text/html"/>
+    <link href="http://creativecommons.org/licenses/by-nc-sa/2.5/rdf" rel="license" type="application/rdf+xml"/>
+    <title>&#684; Easy Upload via URL with attachment_fu</title>
+    <content type="html">&lt;p&gt;
+&lt;a href="http://almosteffortless.com/2008/10/24/easy-upload-via-url-with-attachment_fu/"&gt;&lt;img alt="&#684; Easy Upload via URL with attachment_fu" src="http://ma.gnolia.com/bookmarks/stiyube/thumbnail" /&gt;&lt;/a&gt;&lt;/p&gt;
+                
+&lt;p&gt;Allowing file uploads with attachment_fu is super easy, but I've found that users sometimes want to be able to "upload" a file directly from a URL. This saves them the steps of downloading the file, finding it on their computer, uploading it into your app, etc.&lt;/p&gt;
+
+&lt;p&gt;Saved By: &lt;a href="http://ma.gnolia.com/people/fieldy1973" title="Visit Ian Fieldhouse on Ma.gnolia"&gt;Ian Fieldhouse&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/people/fieldy1973/bookmarks/stiyube" title="View &#684; Easy Upload via URL with attachment_fu on Ma.gnolia"&gt;View Details&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/bookmarks/stiyube/thanks/feed/confirm"&gt;Give Thanks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;a href="http://ma.gnolia.com/people/fieldy1973/tags/development" rel="tag" title="Find fieldy1973 bookmarks tagged 'development'"&gt;development&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/fieldy1973/tags/ruby" rel="tag" title="Find fieldy1973 bookmarks tagged 'ruby'"&gt;ruby&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/fieldy1973/tags/rails" rel="tag" title="Find fieldy1973 bookmarks tagged 'rails'"&gt;rails&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/fieldy1973/tags/plug-ins" rel="tag" title="Find fieldy1973 bookmarks tagged 'plug-ins'"&gt;plug-ins&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="development" scheme="http://ma.gnolia.com/tags"/>
+    <category term="ruby" scheme="http://ma.gnolia.com/tags"/>
+    <category term="rails" scheme="http://ma.gnolia.com/tags"/>
+    <category term="plug-ins" scheme="http://ma.gnolia.com/tags"/>
+  </entry>
+  <entry>
+    <author>
+      <name>AlcidesFonseca</name>
+    </author>
+    <id>tag:ma.gnolia.com,2005:Ma.gnolia-zoquyoshu</id>
+    <published>2008-11-29T03:39:19-08:00</published>
+    <updated>2008-11-29T03:39:19-08:00</updated>
+    <link href="http://eli.thegreenplace.net/2006/04/18/understanding-ruby-blocks-procs-and-methods/" rel="alternate" type="text/html"/>
+    <link href="http://creativecommons.org/licenses/by-nc-sa/2.5/rdf" rel="license" type="application/rdf+xml"/>
+    <title>Eli Bendersky&#8217;s website  &#187; Blog Archive   &#187; Understanding Ruby blocks, Procs and methods</title>
+    <content type="html">&lt;p&gt;
+&lt;a href="http://eli.thegreenplace.net/2006/04/18/understanding-ruby-blocks-procs-and-methods/"&gt;&lt;img alt="Eli Bendersky&#8217;s website  &#187; Blog Archive   &#187; Understanding Ruby blocks, Procs and methods" src="http://ma.gnolia.com/bookmarks/zoquyoshu/thumbnail" /&gt;&lt;/a&gt;&lt;/p&gt;
+                
+&lt;p&gt;puts try_ret_lambda&lt;/p&gt;
+
+&lt;p&gt;Saved By: &lt;a href="http://ma.gnolia.com/people/AlcidesFonseca" title="Visit Alcides Fonseca on Ma.gnolia"&gt;Alcides Fonseca&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/people/AlcidesFonseca/bookmarks/zoquyoshu" title="View Eli Bendersky&#8217;s website  &#187; Blog Archive   &#187; Understanding Ruby blocks, Procs and methods on Ma.gnolia"&gt;View Details&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/bookmarks/zoquyoshu/thanks/feed/confirm"&gt;Give Thanks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;a href="http://ma.gnolia.com/people/AlcidesFonseca/tags/ruby" rel="tag" title="Find AlcidesFonseca bookmarks tagged 'ruby'"&gt;ruby&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="ruby" scheme="http://ma.gnolia.com/tags"/>
+  </entry>
+  <entry>
+    <author>
+      <name>AlcidesFonseca</name>
+    </author>
+    <id>tag:ma.gnolia.com,2005:Ma.gnolia-yuyetu</id>
+    <published>2008-11-28T10:53:10-08:00</published>
+    <updated>2008-11-28T10:53:10-08:00</updated>
+    <link href="http://www.trampolinesystems.com/blog/machines/2008/11/27/rails-22-jruby-jetty-win/" rel="alternate" type="text/html"/>
+    <link href="http://creativecommons.org/licenses/by-nc-sa/2.5/rdf" rel="license" type="application/rdf+xml"/>
+    <title>Machines  - Blog Archive   - rails 2.2 + jruby + jetty = win - Trampoline Systems</title>
+    <content type="html">&lt;p&gt;
+&lt;a href="http://www.trampolinesystems.com/blog/machines/2008/11/27/rails-22-jruby-jetty-win/"&gt;&lt;img alt="Machines  - Blog Archive   - rails 2.2 + jruby + jetty = win - Trampoline Systems" src="http://ma.gnolia.com/bookmarks/yuyetu/thumbnail" /&gt;&lt;/a&gt;&lt;/p&gt;
+                
+&lt;p&gt;Why has thread safety become a priority all of a sudden? I suspect one of the drivers is JRuby, which is now a viable alternative to MRI Ruby, and which also has the nice property of mapping Ruby threads to native threads. Another factor might be the arrival of merb, the new kid on the &#8216;ruby web framework&#8217; block. Merb has been designed with thread safety in mind, and is now starting to get a lot of attention (1.0 has just been released).
+&lt;/p&gt;
+
+&lt;p&gt;Saved By: &lt;a href="http://ma.gnolia.com/people/AlcidesFonseca" title="Visit Alcides Fonseca on Ma.gnolia"&gt;Alcides Fonseca&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/people/AlcidesFonseca/bookmarks/yuyetu" title="View Machines  - Blog Archive   - rails 2.2 + jruby + jetty = win - Trampoline Systems on Ma.gnolia"&gt;View Details&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/bookmarks/yuyetu/thanks/feed/confirm"&gt;Give Thanks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;a href="http://ma.gnolia.com/people/AlcidesFonseca/tags/ruby" rel="tag" title="Find AlcidesFonseca bookmarks tagged 'ruby'"&gt;ruby&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/AlcidesFonseca/tags/jruby" rel="tag" title="Find AlcidesFonseca bookmarks tagged 'jruby'"&gt;jruby&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/AlcidesFonseca/tags/java" rel="tag" title="Find AlcidesFonseca bookmarks tagged 'java'"&gt;java&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/AlcidesFonseca/tags/servlet" rel="tag" title="Find AlcidesFonseca bookmarks tagged 'servlet'"&gt;servlet&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/AlcidesFonseca/tags/rails" rel="tag" title="Find AlcidesFonseca bookmarks tagged 'rails'"&gt;rails&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="ruby" scheme="http://ma.gnolia.com/tags"/>
+    <category term="jruby" scheme="http://ma.gnolia.com/tags"/>
+    <category term="java" scheme="http://ma.gnolia.com/tags"/>
+    <category term="servlet" scheme="http://ma.gnolia.com/tags"/>
+    <category term="rails" scheme="http://ma.gnolia.com/tags"/>
+  </entry>
+  <entry>
+    <author>
+      <name>atog</name>
+    </author>
+    <id>tag:ma.gnolia.com,2005:Ma.gnolia-stojuxishi</id>
+    <published>2008-11-28T08:05:48-08:00</published>
+    <updated>2008-11-28T08:05:48-08:00</updated>
+    <link href="http://devver.net/blog/2008/11/building-a-iphone-web-app-in-under-50-lines-with-sinatra-and-iui/" rel="alternate" type="text/html"/>
+    <link href="http://creativecommons.org/licenses/by-nc-sa/2.5/rdf" rel="license" type="application/rdf+xml"/>
+    <title>Building a iPhone web app in under 50 lines with Sinatra and iUI - The Devver Blog</title>
+    <content type="html">&lt;p&gt;
+&lt;a href="http://devver.net/blog/2008/11/building-a-iphone-web-app-in-under-50-lines-with-sinatra-and-iui/"&gt;&lt;img alt="Building a iPhone web app in under 50 lines with Sinatra and iUI - The Devver Blog" src="http://ma.gnolia.com/bookmarks/stojuxishi/thumbnail" /&gt;&lt;/a&gt;&lt;/p&gt;
+                
+&lt;p&gt;Shared with shareomatic.com&lt;/p&gt;
+
+&lt;p&gt;Saved By: &lt;a href="http://ma.gnolia.com/people/atog" title="Visit Koen Van der Auwera on Ma.gnolia"&gt;Koen Van der Auwera&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/people/atog/bookmarks/stojuxishi" title="View Building a iPhone web app in under 50 lines with Sinatra and iUI - The Devver Blog on Ma.gnolia"&gt;View Details&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/bookmarks/stojuxishi/thanks/feed/confirm"&gt;Give Thanks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;a href="http://ma.gnolia.com/people/atog/tags/ruby" rel="tag" title="Find atog bookmarks tagged 'ruby'"&gt;ruby&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/atog/tags/rails" rel="tag" title="Find atog bookmarks tagged 'rails'"&gt;rails&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/atog/tags/sinatra" rel="tag" title="Find atog bookmarks tagged 'sinatra'"&gt;sinatra&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/atog/tags/iphone" rel="tag" title="Find atog bookmarks tagged 'iphone'"&gt;iphone&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="ruby" scheme="http://ma.gnolia.com/tags"/>
+    <category term="rails" scheme="http://ma.gnolia.com/tags"/>
+    <category term="sinatra" scheme="http://ma.gnolia.com/tags"/>
+    <category term="iphone" scheme="http://ma.gnolia.com/tags"/>
+  </entry>
+  <entry>
+    <author>
+      <name>AlcidesFonseca</name>
+    </author>
+    <id>tag:ma.gnolia.com,2005:Ma.gnolia-bumiqofi</id>
+    <published>2008-11-28T04:34:38-08:00</published>
+    <updated>2008-11-28T04:34:38-08:00</updated>
+    <link href="http://www.tudbc.org/tudbcjrubyservlet" rel="alternate" type="text/html"/>
+    <link href="http://creativecommons.org/licenses/by-nc-sa/2.5/rdf" rel="license" type="application/rdf+xml"/>
+    <title>TUDBC.org - TudbcJRubyServlet</title>
+    <content type="html">&lt;p&gt;
+&lt;a href="http://www.tudbc.org/tudbcjrubyservlet"&gt;&lt;img alt="TUDBC.org - TudbcJRubyServlet" src="http://ma.gnolia.com/bookmarks/bumiqofi/thumbnail" /&gt;&lt;/a&gt;&lt;/p&gt;
+                
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Saved By: &lt;a href="http://ma.gnolia.com/people/AlcidesFonseca" title="Visit Alcides Fonseca on Ma.gnolia"&gt;Alcides Fonseca&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/people/AlcidesFonseca/bookmarks/bumiqofi" title="View TUDBC.org - TudbcJRubyServlet on Ma.gnolia"&gt;View Details&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/bookmarks/bumiqofi/thanks/feed/confirm"&gt;Give Thanks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;a href="http://ma.gnolia.com/people/AlcidesFonseca/tags/ruby" rel="tag" title="Find AlcidesFonseca bookmarks tagged 'ruby'"&gt;ruby&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/AlcidesFonseca/tags/jruby" rel="tag" title="Find AlcidesFonseca bookmarks tagged 'jruby'"&gt;jruby&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/AlcidesFonseca/tags/java" rel="tag" title="Find AlcidesFonseca bookmarks tagged 'java'"&gt;java&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/AlcidesFonseca/tags/servlet" rel="tag" title="Find AlcidesFonseca bookmarks tagged 'servlet'"&gt;servlet&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="ruby" scheme="http://ma.gnolia.com/tags"/>
+    <category term="jruby" scheme="http://ma.gnolia.com/tags"/>
+    <category term="java" scheme="http://ma.gnolia.com/tags"/>
+    <category term="servlet" scheme="http://ma.gnolia.com/tags"/>
+  </entry>
+  <entry>
+    <author>
+      <name>aurelian</name>
+    </author>
+    <id>tag:ma.gnolia.com,2005:Ma.gnolia-nushustird</id>
+    <published>2008-11-28T01:50:53-08:00</published>
+    <updated>2008-11-28T01:50:53-08:00</updated>
+    <link href="http://www.restafari.cz/pushr-or-the-application-will-deploy-itself.html" rel="alternate" type="text/html"/>
+    <link href="http://creativecommons.org/licenses/by-nc-sa/2.5/rdf" rel="license" type="application/rdf+xml"/>
+    <title>Pushr</title>
+    <content type="html">&lt;p&gt;
+&lt;a href="http://www.restafari.cz/pushr-or-the-application-will-deploy-itself.html"&gt;&lt;img alt="Pushr" src="http://ma.gnolia.com/bookmarks/nushustird/thumbnail" /&gt;&lt;/a&gt;&lt;/p&gt;
+                
+&lt;p&gt;This is about Pushr, a Sinatra web application that will deploy itself.
+
+The awesome workflow:
+dev -&gt; git push to github
+github -&gt; post - hook url -&gt; Pushr
+Pushr -&gt; cap deploy -&gt; your app.
+Pushr -&gt; post status to Twitter (?!?)
+
+Slick.&lt;/p&gt;
+
+&lt;p&gt;Saved By: &lt;a href="http://ma.gnolia.com/people/aurelian" title="Visit Aurelian Oancea on Ma.gnolia"&gt;Aurelian Oancea&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/people/aurelian/bookmarks/nushustird" title="View Pushr on Ma.gnolia"&gt;View Details&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/bookmarks/nushustird/thanks/feed/confirm"&gt;Give Thanks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;a href="http://ma.gnolia.com/people/aurelian/tags/Deployment" rel="tag" title="Find aurelian bookmarks tagged 'Deployment'"&gt;Deployment&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/aurelian/tags/Code" rel="tag" title="Find aurelian bookmarks tagged 'Code'"&gt;Code&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/aurelian/tags/Ruby" rel="tag" title="Find aurelian bookmarks tagged 'Ruby'"&gt;Ruby&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/aurelian/tags/Capistrano" rel="tag" title="Find aurelian bookmarks tagged 'Capistrano'"&gt;Capistrano&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="Deployment" scheme="http://ma.gnolia.com/tags"/>
+    <category term="Code" scheme="http://ma.gnolia.com/tags"/>
+    <category term="Ruby" scheme="http://ma.gnolia.com/tags"/>
+    <category term="Capistrano" scheme="http://ma.gnolia.com/tags"/>
+  </entry>
+  <entry>
+    <author>
+      <name>gkarekinian</name>
+    </author>
+    <id>tag:ma.gnolia.com,2005:Ma.gnolia-twinisesc</id>
+    <published>2008-11-27T12:00:25-08:00</published>
+    <updated>2008-11-27T12:00:25-08:00</updated>
+    <link href="http://api.rubyonrails.org/classes/ActionView/Helpers/RecordTagHelper.html" rel="alternate" type="text/html"/>
+    <link href="http://creativecommons.org/licenses/by-nc-sa/2.5/rdf" rel="license" type="application/rdf+xml"/>
+    <title>Module: ActionView::Helpers::RecordTagHelper</title>
+    <content type="html">&lt;p&gt;
+&lt;a href="http://api.rubyonrails.org/classes/ActionView/Helpers/RecordTagHelper.html"&gt;&lt;img alt="Module: ActionView::Helpers::RecordTagHelper" src="http://ma.gnolia.com/bookmarks/twinisesc/thumbnail" /&gt;&lt;/a&gt;&lt;/p&gt;
+                
+&lt;p&gt;content_type_for and div_for&lt;/p&gt;
+
+&lt;p&gt;Saved By: &lt;a href="http://ma.gnolia.com/people/gkarekinian" title="Visit Gr&#233;gory Kar&#233;kinian on Ma.gnolia"&gt;Gr&#233;gory Kar&#233;kinian&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/people/gkarekinian/bookmarks/twinisesc" title="View Module: ActionView::Helpers::RecordTagHelper on Ma.gnolia"&gt;View Details&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/bookmarks/twinisesc/thanks/feed/confirm"&gt;Give Thanks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;a href="http://ma.gnolia.com/people/gkarekinian/tags/rails" rel="tag" title="Find gkarekinian bookmarks tagged 'rails'"&gt;rails&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/gkarekinian/tags/api" rel="tag" title="Find gkarekinian bookmarks tagged 'api'"&gt;api&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/gkarekinian/tags/ruby%20on%20rails" rel="tag" title="Find gkarekinian bookmarks tagged 'ruby on rails'"&gt;ruby on rails&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/gkarekinian/tags/ruby" rel="tag" title="Find gkarekinian bookmarks tagged 'ruby'"&gt;ruby&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/gkarekinian/tags/helpers" rel="tag" title="Find gkarekinian bookmarks tagged 'helpers'"&gt;helpers&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/gkarekinian/tags/views" rel="tag" title="Find gkarekinian bookmarks tagged 'views'"&gt;views&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="rails" scheme="http://ma.gnolia.com/tags"/>
+    <category term="api" scheme="http://ma.gnolia.com/tags"/>
+    <category term="ruby on rails" scheme="http://ma.gnolia.com/tags"/>
+    <category term="ruby" scheme="http://ma.gnolia.com/tags"/>
+    <category term="helpers" scheme="http://ma.gnolia.com/tags"/>
+    <category term="views" scheme="http://ma.gnolia.com/tags"/>
+  </entry>
+  <entry>
+    <author>
+      <name>olifante</name>
+    </author>
+    <id>tag:ma.gnolia.com,2005:Ma.gnolia-nashemuvu</id>
+    <published>2008-11-27T06:09:30-08:00</published>
+    <updated>2008-11-27T06:09:30-08:00</updated>
+    <link href="http://www.infoq.com/news/2008/05/MagLevAtRailsConf" rel="alternate" type="text/html"/>
+    <link href="http://creativecommons.org/licenses/by-nc-sa/2.5/rdf" rel="license" type="application/rdf+xml"/>
+    <title>InfoQ: GemStone Reveals Plans for MagLev Ruby VM at RailsConf 2008</title>
+    <content type="html">&lt;p&gt;
+&lt;a href="http://www.infoq.com/news/2008/05/MagLevAtRailsConf"&gt;&lt;img alt="InfoQ: GemStone Reveals Plans for MagLev Ruby VM at RailsConf 2008" src="http://ma.gnolia.com/bookmarks/nashemuvu/thumbnail" /&gt;&lt;/a&gt;&lt;/p&gt;
+                
+&lt;p&gt;"MagLev is a Ruby VM based on the GemStone S64 VM, which runs Smalltalk. The Smalltalk VM has been extended with special byte codes to make it Ruby compatible."&lt;/p&gt;
+
+&lt;p&gt;Saved By: &lt;a href="http://ma.gnolia.com/people/olifante" title="Visit Tiago Henriques on Ma.gnolia"&gt;Tiago Henriques&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/people/olifante/bookmarks/nashemuvu" title="View InfoQ: GemStone Reveals Plans for MagLev Ruby VM at RailsConf 2008 on Ma.gnolia"&gt;View Details&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/bookmarks/nashemuvu/thanks/feed/confirm"&gt;Give Thanks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;a href="http://ma.gnolia.com/people/olifante/tags/maglev" rel="tag" title="Find olifante bookmarks tagged 'maglev'"&gt;maglev&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/olifante/tags/ruby" rel="tag" title="Find olifante bookmarks tagged 'ruby'"&gt;ruby&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/olifante/tags/vm" rel="tag" title="Find olifante bookmarks tagged 'vm'"&gt;vm&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/olifante/tags/smalltalk" rel="tag" title="Find olifante bookmarks tagged 'smalltalk'"&gt;smalltalk&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/olifante/tags/gemstone" rel="tag" title="Find olifante bookmarks tagged 'gemstone'"&gt;gemstone&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/olifante/tags/rails" rel="tag" title="Find olifante bookmarks tagged 'rails'"&gt;rails&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="maglev" scheme="http://ma.gnolia.com/tags"/>
+    <category term="ruby" scheme="http://ma.gnolia.com/tags"/>
+    <category term="vm" scheme="http://ma.gnolia.com/tags"/>
+    <category term="smalltalk" scheme="http://ma.gnolia.com/tags"/>
+    <category term="gemstone" scheme="http://ma.gnolia.com/tags"/>
+    <category term="rails" scheme="http://ma.gnolia.com/tags"/>
+  </entry>
+  <entry>
+    <author>
+      <name>falko</name>
+    </author>
+    <id>tag:ma.gnolia.com,2005:Ma.gnolia-rastalaje</id>
+    <published>2008-11-27T04:37:24-08:00</published>
+    <updated>2008-11-27T04:37:24-08:00</updated>
+    <link href="http://www.howtoforge.com/perfect-server-fedora-10" rel="alternate" type="text/html"/>
+    <link href="http://creativecommons.org/licenses/by-nc-sa/2.5/rdf" rel="license" type="application/rdf+xml"/>
+    <title>The Perfect Server - Fedora 10</title>
+    <content type="html">&lt;p&gt;
+&lt;a href="http://www.howtoforge.com/perfect-server-fedora-10"&gt;&lt;img alt="The Perfect Server - Fedora 10" src="http://ma.gnolia.com/bookmarks/rastalaje/thumbnail" /&gt;&lt;/a&gt;&lt;/p&gt;
+                
+&lt;p&gt;This is a detailed description about how to set up a Fedora 10 server that offers all services needed by ISPs and hosters: Apache web server (SSL-capable) with PHP5/Ruby/Python, Postfix mail server with SMTP-AUTH and TLS, BIND DNS server, Proftpd FTP server, MySQL server, Dovecot POP3/IMAP, Quota, Firewall, etc.  &lt;/p&gt;
+
+&lt;p&gt;Saved By: &lt;a href="http://ma.gnolia.com/people/falko" title="Visit falko on Ma.gnolia"&gt;falko&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/people/falko/bookmarks/rastalaje" title="View The Perfect Server - Fedora 10 on Ma.gnolia"&gt;View Details&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/bookmarks/rastalaje/thanks/feed/confirm"&gt;Give Thanks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;a href="http://ma.gnolia.com/people/falko/tags/fedora" rel="tag" title="Find falko bookmarks tagged 'fedora'"&gt;fedora&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/falko/tags/server" rel="tag" title="Find falko bookmarks tagged 'server'"&gt;server&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/falko/tags/lamp" rel="tag" title="Find falko bookmarks tagged 'lamp'"&gt;lamp&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/falko/tags/php" rel="tag" title="Find falko bookmarks tagged 'php'"&gt;php&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/falko/tags/apache" rel="tag" title="Find falko bookmarks tagged 'apache'"&gt;apache&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/falko/tags/mysql" rel="tag" title="Find falko bookmarks tagged 'mysql'"&gt;mysql&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/falko/tags/dovecot" rel="tag" title="Find falko bookmarks tagged 'dovecot'"&gt;dovecot&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/falko/tags/ispconfig" rel="tag" title="Find falko bookmarks tagged 'ispconfig'"&gt;ispconfig&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/falko/tags/python" rel="tag" title="Find falko bookmarks tagged 'python'"&gt;python&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/falko/tags/ruby" rel="tag" title="Find falko bookmarks tagged 'ruby'"&gt;ruby&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/falko/tags/bind" rel="tag" title="Find falko bookmarks tagged 'bind'"&gt;bind&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/falko/tags/quota" rel="tag" title="Find falko bookmarks tagged 'quota'"&gt;quota&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="fedora" scheme="http://ma.gnolia.com/tags"/>
+    <category term="server" scheme="http://ma.gnolia.com/tags"/>
+    <category term="lamp" scheme="http://ma.gnolia.com/tags"/>
+    <category term="php" scheme="http://ma.gnolia.com/tags"/>
+    <category term="apache" scheme="http://ma.gnolia.com/tags"/>
+    <category term="mysql" scheme="http://ma.gnolia.com/tags"/>
+    <category term="dovecot" scheme="http://ma.gnolia.com/tags"/>
+    <category term="ispconfig" scheme="http://ma.gnolia.com/tags"/>
+    <category term="python" scheme="http://ma.gnolia.com/tags"/>
+    <category term="ruby" scheme="http://ma.gnolia.com/tags"/>
+    <category term="bind" scheme="http://ma.gnolia.com/tags"/>
+    <category term="quota" scheme="http://ma.gnolia.com/tags"/>
+  </entry>
+  <entry>
+    <author>
+      <name>atog</name>
+    </author>
+    <id>tag:ma.gnolia.com,2005:Ma.gnolia-denoloxoy</id>
+    <published>2008-11-27T01:58:43-08:00</published>
+    <updated>2008-11-27T01:58:43-08:00</updated>
+    <link href="http://rubyconf2008.confreaks.com/" rel="alternate" type="text/html"/>
+    <link href="http://creativecommons.org/licenses/by-nc-sa/2.5/rdf" rel="license" type="application/rdf+xml"/>
+    <title>Confreaks: RubyConf 2008</title>
+    <content type="html">&lt;p&gt;
+&lt;a href="http://rubyconf2008.confreaks.com/"&gt;&lt;img alt="Confreaks: RubyConf 2008" src="http://ma.gnolia.com/bookmarks/denoloxoy/thumbnail" /&gt;&lt;/a&gt;&lt;/p&gt;
+                
+&lt;p&gt;The Eighth International Ruby Conference, aka rubyconf2008 was held in Orlando, Florida on November 6th to the 8th of 2008.  -- shared with shareomatic.com&lt;/p&gt;
+
+&lt;p&gt;Saved By: &lt;a href="http://ma.gnolia.com/people/atog" title="Visit Koen Van der Auwera on Ma.gnolia"&gt;Koen Van der Auwera&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/people/atog/bookmarks/denoloxoy" title="View Confreaks: RubyConf 2008 on Ma.gnolia"&gt;View Details&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/bookmarks/denoloxoy/thanks/feed/confirm"&gt;Give Thanks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;a href="http://ma.gnolia.com/people/atog/tags/rubyconf" rel="tag" title="Find atog bookmarks tagged 'rubyconf'"&gt;rubyconf&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/atog/tags/videos" rel="tag" title="Find atog bookmarks tagged 'videos'"&gt;videos&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/atog/tags/ruby" rel="tag" title="Find atog bookmarks tagged 'ruby'"&gt;ruby&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="rubyconf" scheme="http://ma.gnolia.com/tags"/>
+    <category term="videos" scheme="http://ma.gnolia.com/tags"/>
+    <category term="ruby" scheme="http://ma.gnolia.com/tags"/>
+  </entry>
+  <entry>
+    <author>
+      <name>atog</name>
+    </author>
+    <id>tag:ma.gnolia.com,2005:Ma.gnolia-crascuyi</id>
+    <published>2008-11-27T01:56:35-08:00</published>
+    <updated>2008-11-27T01:56:35-08:00</updated>
+    <link href="http://r18n.rubyforge.org/" rel="alternate" type="text/html"/>
+    <link href="http://creativecommons.org/licenses/by-nc-sa/2.5/rdf" rel="license" type="application/rdf+xml"/>
+    <title>R18n &#8211; Ruby i18n/l10n</title>
+    <content type="html">&lt;p&gt;
+&lt;a href="http://r18n.rubyforge.org/"&gt;&lt;img alt="R18n &#8211; Ruby i18n/l10n" src="http://ma.gnolia.com/bookmarks/crascuyi/thumbnail" /&gt;&lt;/a&gt;&lt;/p&gt;
+                
+&lt;p&gt;Tool to internationalize and localize your Merb/desktop Ruby application. -- shared with shareomatic.com&lt;/p&gt;
+
+&lt;p&gt;Saved By: &lt;a href="http://ma.gnolia.com/people/atog" title="Visit Koen Van der Auwera on Ma.gnolia"&gt;Koen Van der Auwera&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/people/atog/bookmarks/crascuyi" title="View R18n &#8211; Ruby i18n/l10n on Ma.gnolia"&gt;View Details&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/bookmarks/crascuyi/thanks/feed/confirm"&gt;Give Thanks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;a href="http://ma.gnolia.com/people/atog/tags/i18n" rel="tag" title="Find atog bookmarks tagged 'i18n'"&gt;i18n&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/atog/tags/ruby" rel="tag" title="Find atog bookmarks tagged 'ruby'"&gt;ruby&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/atog/tags/merb" rel="tag" title="Find atog bookmarks tagged 'merb'"&gt;merb&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/atog/tags/gem" rel="tag" title="Find atog bookmarks tagged 'gem'"&gt;gem&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/atog/tags/gems" rel="tag" title="Find atog bookmarks tagged 'gems'"&gt;gems&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="i18n" scheme="http://ma.gnolia.com/tags"/>
+    <category term="ruby" scheme="http://ma.gnolia.com/tags"/>
+    <category term="merb" scheme="http://ma.gnolia.com/tags"/>
+    <category term="gem" scheme="http://ma.gnolia.com/tags"/>
+    <category term="gems" scheme="http://ma.gnolia.com/tags"/>
+  </entry>
+  <entry>
+    <author>
+      <name>gkarekinian</name>
+    </author>
+    <id>tag:ma.gnolia.com,2005:Ma.gnolia-jupovas</id>
+    <published>2008-11-26T02:36:08-08:00</published>
+    <updated>2008-11-26T02:36:08-08:00</updated>
+    <link href="http://www.spacevatican.org/2008/11/25/with_options-for-fun-and-profit" rel="alternate" type="text/html"/>
+    <link href="http://creativecommons.org/licenses/by-nc-sa/2.5/rdf" rel="license" type="application/rdf+xml"/>
+    <title>Space Vatican : with_options for fun and profit</title>
+    <content type="html">&lt;p&gt;
+&lt;a href="http://www.spacevatican.org/2008/11/25/with_options-for-fun-and-profit"&gt;&lt;img alt="Space Vatican : with_options for fun and profit" src="http://ma.gnolia.com/bookmarks/jupovas/thumbnail" /&gt;&lt;/a&gt;&lt;/p&gt;
+                
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Saved By: &lt;a href="http://ma.gnolia.com/people/gkarekinian" title="Visit Gr&#233;gory Kar&#233;kinian on Ma.gnolia"&gt;Gr&#233;gory Kar&#233;kinian&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/people/gkarekinian/bookmarks/jupovas" title="View Space Vatican : with_options for fun and profit on Ma.gnolia"&gt;View Details&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/bookmarks/jupovas/thanks/feed/confirm"&gt;Give Thanks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;a href="http://ma.gnolia.com/people/gkarekinian/tags/ruby%20on%20rails" rel="tag" title="Find gkarekinian bookmarks tagged 'ruby on rails'"&gt;ruby on rails&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/gkarekinian/tags/ruby" rel="tag" title="Find gkarekinian bookmarks tagged 'ruby'"&gt;ruby&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/gkarekinian/tags/rails" rel="tag" title="Find gkarekinian bookmarks tagged 'rails'"&gt;rails&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/gkarekinian/tags/activesupport" rel="tag" title="Find gkarekinian bookmarks tagged 'activesupport'"&gt;activesupport&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/gkarekinian/tags/activerecord" rel="tag" title="Find gkarekinian bookmarks tagged 'activerecord'"&gt;activerecord&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/gkarekinian/tags/options" rel="tag" title="Find gkarekinian bookmarks tagged 'options'"&gt;options&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/gkarekinian/tags/validation" rel="tag" title="Find gkarekinian bookmarks tagged 'validation'"&gt;validation&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="ruby on rails" scheme="http://ma.gnolia.com/tags"/>
+    <category term="ruby" scheme="http://ma.gnolia.com/tags"/>
+    <category term="rails" scheme="http://ma.gnolia.com/tags"/>
+    <category term="activesupport" scheme="http://ma.gnolia.com/tags"/>
+    <category term="activerecord" scheme="http://ma.gnolia.com/tags"/>
+    <category term="options" scheme="http://ma.gnolia.com/tags"/>
+    <category term="validation" scheme="http://ma.gnolia.com/tags"/>
+  </entry>
+  <entry>
+    <author>
+      <name>jwmittag</name>
+    </author>
+    <id>tag:ma.gnolia.com,2005:Ma.gnolia-preshipav</id>
+    <published>2008-11-26T00:24:51-08:00</published>
+    <updated>2008-11-26T00:24:51-08:00</updated>
+    <link href="http://rAtom.RubyForge.Org/" rel="alternate" type="text/html"/>
+    <link href="http://creativecommons.org/licenses/by/2.5/rdf" rel="license" type="application/rdf+xml"/>
+    <title>RAtom is a Ruby library for the Atom Syndication Format and the Atom Publishing Protocol (APP / AtomPub)</title>
+    <content type="html">&lt;p&gt;
+&lt;a href="http://rAtom.RubyForge.Org/"&gt;&lt;img alt="RAtom is a Ruby library for the Atom Syndication Format and the Atom Publishing Protocol (APP / AtomPub)" src="http://ma.gnolia.com/bookmarks/preshipav/thumbnail" /&gt;&lt;/a&gt;&lt;/p&gt;
+                
+&lt;p&gt;RAtom is a Ruby library for the Atom Syndication Format and the Atom Publishing Protocol (APP / AtomPub)&lt;/p&gt;
+
+&lt;p&gt;Saved By: &lt;a href="http://ma.gnolia.com/people/jwmittag" title="Visit J&#246;rg W Mittag on Ma.gnolia"&gt;J&#246;rg W Mittag&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/people/jwmittag/bookmarks/preshipav" title="View RAtom is a Ruby library for the Atom Syndication Format and the Atom Publishing Protocol (APP / AtomPub) on Ma.gnolia"&gt;View Details&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/bookmarks/preshipav/thanks/feed/confirm"&gt;Give Thanks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/APP" rel="tag" title="Find jwmittag bookmarks tagged 'APP'"&gt;APP&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/Atom" rel="tag" title="Find jwmittag bookmarks tagged 'Atom'"&gt;Atom&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/AtomPub" rel="tag" title="Find jwmittag bookmarks tagged 'AtomPub'"&gt;AtomPub&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/AtomPublishingProtocol" rel="tag" title="Find jwmittag bookmarks tagged 'AtomPublishingProtocol'"&gt;AtomPublishingProtocol&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/AtomSyndicationFormat" rel="tag" title="Find jwmittag bookmarks tagged 'AtomSyndicationFormat'"&gt;AtomSyndicationFormat&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/https:%2F%2FRubyForge.Org%2Fprojects%2Fratom%2F" rel="tag" title="Find jwmittag bookmarks tagged 'https://RubyForge.Org/projects/ratom/'"&gt;https://RubyForge.Org/projects/ratom/&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/Ruby" rel="tag" title="Find jwmittag bookmarks tagged 'Ruby'"&gt;Ruby&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/http:%2F%2FrAtom.RubyForge.Org%2F" rel="tag" title="Find jwmittag bookmarks tagged 'http://rAtom.RubyForge.Org/'"&gt;http://rAtom.RubyForge.Org/&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/RAtom%20is%20a%20Ruby%20library%20for%20the%20Atom%20Syndication%20Format%20and%20the%20Atom%20Publishing%20Protocol%20(APP%20%2F%20AtomPub)" rel="tag" title="Find jwmittag bookmarks tagged 'RAtom is a Ruby library for the Atom Syndication Format and the Atom Publishing Protocol (APP / AtomPub)'"&gt;RAtom is a Ruby library for the Atom Syndication Format and the Atom Publishing Protocol (APP / AtomPub)&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="APP" scheme="http://ma.gnolia.com/tags"/>
+    <category term="Atom" scheme="http://ma.gnolia.com/tags"/>
+    <category term="AtomPub" scheme="http://ma.gnolia.com/tags"/>
+    <category term="AtomPublishingProtocol" scheme="http://ma.gnolia.com/tags"/>
+    <category term="AtomSyndicationFormat" scheme="http://ma.gnolia.com/tags"/>
+    <category term="https://RubyForge.Org/projects/ratom/" scheme="http://ma.gnolia.com/tags"/>
+    <category term="Ruby" scheme="http://ma.gnolia.com/tags"/>
+    <category term="http://rAtom.RubyForge.Org/" scheme="http://ma.gnolia.com/tags"/>
+    <category term="RAtom is a Ruby library for the Atom Syndication Format and the Atom Publishing Protocol (APP / AtomPub)" scheme="http://ma.gnolia.com/tags"/>
+  </entry>
+  <entry>
+    <author>
+      <name>jwmittag</name>
+    </author>
+    <id>tag:ma.gnolia.com,2005:Ma.gnolia-wrocostaro</id>
+    <published>2008-11-26T00:24:49-08:00</published>
+    <updated>2008-11-26T00:24:49-08:00</updated>
+    <link href="http://AtomUtil.RubyForge.Org/" rel="alternate" type="text/html"/>
+    <link href="http://creativecommons.org/licenses/by/2.5/rdf" rel="license" type="application/rdf+xml"/>
+    <title>atomutil is a Ruby library for the Atom Syndication Format and the Atom Publishing Protocol (APP / AtomPub)</title>
+    <content type="html">&lt;p&gt;
+&lt;a href="http://AtomUtil.RubyForge.Org/"&gt;&lt;img alt="atomutil is a Ruby library for the Atom Syndication Format and the Atom Publishing Protocol (APP / AtomPub)" src="http://ma.gnolia.com/bookmarks/wrocostaro/thumbnail" /&gt;&lt;/a&gt;&lt;/p&gt;
+                
+&lt;p&gt;atomutil is a Ruby library for the Atom Syndication Format and the Atom Publishing Protocol (APP / AtomPub)&lt;/p&gt;
+
+&lt;p&gt;Saved By: &lt;a href="http://ma.gnolia.com/people/jwmittag" title="Visit J&#246;rg W Mittag on Ma.gnolia"&gt;J&#246;rg W Mittag&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/people/jwmittag/bookmarks/wrocostaro" title="View atomutil is a Ruby library for the Atom Syndication Format and the Atom Publishing Protocol (APP / AtomPub) on Ma.gnolia"&gt;View Details&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/bookmarks/wrocostaro/thanks/feed/confirm"&gt;Give Thanks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/APP" rel="tag" title="Find jwmittag bookmarks tagged 'APP'"&gt;APP&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/Atom" rel="tag" title="Find jwmittag bookmarks tagged 'Atom'"&gt;Atom&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/AtomPub" rel="tag" title="Find jwmittag bookmarks tagged 'AtomPub'"&gt;AtomPub&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/AtomPublishingProtocol" rel="tag" title="Find jwmittag bookmarks tagged 'AtomPublishingProtocol'"&gt;AtomPublishingProtocol&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/AtomSyndicationFormat" rel="tag" title="Find jwmittag bookmarks tagged 'AtomSyndicationFormat'"&gt;AtomSyndicationFormat&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/https:%2F%2FRubyForge.Org%2Fprojects%2Fatomutil%2F" rel="tag" title="Find jwmittag bookmarks tagged 'https://RubyForge.Org/projects/atomutil/'"&gt;https://RubyForge.Org/projects/atomutil/&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/Ruby" rel="tag" title="Find jwmittag bookmarks tagged 'Ruby'"&gt;Ruby&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/http:%2F%2FAtomUtil.RubyForge.Org%2F" rel="tag" title="Find jwmittag bookmarks tagged 'http://AtomUtil.RubyForge.Org/'"&gt;http://AtomUtil.RubyForge.Org/&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/atomutil%20is%20a%20Ruby%20library%20for%20the%20Atom%20Syndication%20Format%20and%20the%20Atom%20Publishing%20Protocol%20(APP%20%2F%20AtomPub)" rel="tag" title="Find jwmittag bookmarks tagged 'atomutil is a Ruby library for the Atom Syndication Format and the Atom Publishing Protocol (APP / AtomPub)'"&gt;atomutil is a Ruby library for the Atom Syndication Format and the Atom Publishing Protocol (APP / AtomPub)&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="APP" scheme="http://ma.gnolia.com/tags"/>
+    <category term="Atom" scheme="http://ma.gnolia.com/tags"/>
+    <category term="AtomPub" scheme="http://ma.gnolia.com/tags"/>
+    <category term="AtomPublishingProtocol" scheme="http://ma.gnolia.com/tags"/>
+    <category term="AtomSyndicationFormat" scheme="http://ma.gnolia.com/tags"/>
+    <category term="https://RubyForge.Org/projects/atomutil/" scheme="http://ma.gnolia.com/tags"/>
+    <category term="Ruby" scheme="http://ma.gnolia.com/tags"/>
+    <category term="http://AtomUtil.RubyForge.Org/" scheme="http://ma.gnolia.com/tags"/>
+    <category term="atomutil is a Ruby library for the Atom Syndication Format and the Atom Publishing Protocol (APP / AtomPub)" scheme="http://ma.gnolia.com/tags"/>
+  </entry>
+  <entry>
+    <author>
+      <name>jwmittag</name>
+    </author>
+    <id>tag:ma.gnolia.com,2005:Ma.gnolia-senuchacho</id>
+    <published>2008-11-26T00:24:46-08:00</published>
+    <updated>2008-11-26T00:24:46-08:00</updated>
+    <link href="http://Code.NecronomiCorp.Com/atom-tools/" rel="alternate" type="text/html"/>
+    <link href="http://creativecommons.org/licenses/by/2.5/rdf" rel="license" type="application/rdf+xml"/>
+    <title>atom-tools is a Ruby library for the Atom Syndication Format and the Atom Publishing Protocol (APP / AtomPub)</title>
+    <content type="html">&lt;p&gt;
+&lt;a href="http://Code.NecronomiCorp.Com/atom-tools/"&gt;&lt;img alt="atom-tools is a Ruby library for the Atom Syndication Format and the Atom Publishing Protocol (APP / AtomPub)" src="http://ma.gnolia.com/bookmarks/senuchacho/thumbnail" /&gt;&lt;/a&gt;&lt;/p&gt;
+                
+&lt;p&gt;atom-tools is a Ruby library for the Atom Syndication Format and the Atom Publishing Protocol (APP / AtomPub)&lt;/p&gt;
+
+&lt;p&gt;Saved By: &lt;a href="http://ma.gnolia.com/people/jwmittag" title="Visit J&#246;rg W Mittag on Ma.gnolia"&gt;J&#246;rg W Mittag&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/people/jwmittag/bookmarks/senuchacho" title="View atom-tools is a Ruby library for the Atom Syndication Format and the Atom Publishing Protocol (APP / AtomPub) on Ma.gnolia"&gt;View Details&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/bookmarks/senuchacho/thanks/feed/confirm"&gt;Give Thanks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/APP" rel="tag" title="Find jwmittag bookmarks tagged 'APP'"&gt;APP&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/Atom" rel="tag" title="Find jwmittag bookmarks tagged 'Atom'"&gt;Atom&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/AtomPub" rel="tag" title="Find jwmittag bookmarks tagged 'AtomPub'"&gt;AtomPub&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/AtomPublishingProtocol" rel="tag" title="Find jwmittag bookmarks tagged 'AtomPublishingProtocol'"&gt;AtomPublishingProtocol&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/AtomSyndicationFormat" rel="tag" title="Find jwmittag bookmarks tagged 'AtomSyndicationFormat'"&gt;AtomSyndicationFormat&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/http:%2F%2FNecronomiCorp.Com%2Flab%2Ftag%2Fatom-tools%2F" rel="tag" title="Find jwmittag bookmarks tagged 'http://NecronomiCorp.Com/lab/tag/atom-tools/'"&gt;http://NecronomiCorp.Com/lab/tag/atom-tools/&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/Ruby" rel="tag" title="Find jwmittag bookmarks tagged 'Ruby'"&gt;Ruby&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/http:%2F%2FCode.NecronomiCorp.Com%2Fatom-tools%2F" rel="tag" title="Find jwmittag bookmarks tagged 'http://Code.NecronomiCorp.Com/atom-tools/'"&gt;http://Code.NecronomiCorp.Com/atom-tools/&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/atom-tools%20is%20a%20Ruby%20library%20for%20the%20Atom%20Syndication%20Format%20and%20the%20Atom%20Publishing%20Protocol%20(APP%20%2F%20AtomPub)" rel="tag" title="Find jwmittag bookmarks tagged 'atom-tools is a Ruby library for the Atom Syndication Format and the Atom Publishing Protocol (APP / AtomPub)'"&gt;atom-tools is a Ruby library for the Atom Syndication Format and the Atom Publishing Protocol (APP / AtomPub)&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="APP" scheme="http://ma.gnolia.com/tags"/>
+    <category term="Atom" scheme="http://ma.gnolia.com/tags"/>
+    <category term="AtomPub" scheme="http://ma.gnolia.com/tags"/>
+    <category term="AtomPublishingProtocol" scheme="http://ma.gnolia.com/tags"/>
+    <category term="AtomSyndicationFormat" scheme="http://ma.gnolia.com/tags"/>
+    <category term="http://NecronomiCorp.Com/lab/tag/atom-tools/" scheme="http://ma.gnolia.com/tags"/>
+    <category term="Ruby" scheme="http://ma.gnolia.com/tags"/>
+    <category term="http://Code.NecronomiCorp.Com/atom-tools/" scheme="http://ma.gnolia.com/tags"/>
+    <category term="atom-tools is a Ruby library for the Atom Syndication Format and the Atom Publishing Protocol (APP / AtomPub)" scheme="http://ma.gnolia.com/tags"/>
+  </entry>
+  <entry>
+    <author>
+      <name>jwmittag</name>
+    </author>
+    <id>tag:ma.gnolia.com,2005:Ma.gnolia-wrestudochi</id>
+    <published>2008-11-25T22:20:00-08:00</published>
+    <updated>2008-11-25T22:20:00-08:00</updated>
+    <link href="http://Programblings.Com/2008/11/25/rubinius-for-the-layman-part-3-try-rubinius-in-20-minutes/" rel="alternate" type="text/html"/>
+    <link href="http://creativecommons.org/licenses/by/2.5/rdf" rel="license" type="application/rdf+xml"/>
+    <title>Rubinius for the Layman, Part 3 - Try Rubinius in 20 minutes</title>
+    <content type="html">&lt;p&gt;
+&lt;a href="http://Programblings.Com/2008/11/25/rubinius-for-the-layman-part-3-try-rubinius-in-20-minutes/"&gt;&lt;img alt="Rubinius for the Layman, Part 3 - Try Rubinius in 20 minutes" src="http://ma.gnolia.com/bookmarks/wrestudochi/thumbnail" /&gt;&lt;/a&gt;&lt;/p&gt;
+                
+&lt;p&gt;Rubinius for the Layman, Part 3 - Try Rubinius in 20 minutes&lt;/p&gt;
+
+&lt;p&gt;Saved By: &lt;a href="http://ma.gnolia.com/people/jwmittag" title="Visit J&#246;rg W Mittag on Ma.gnolia"&gt;J&#246;rg W Mittag&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/people/jwmittag/bookmarks/wrestudochi" title="View Rubinius for the Layman, Part 3 - Try Rubinius in 20 minutes on Ma.gnolia"&gt;View Details&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/bookmarks/wrestudochi/thanks/feed/confirm"&gt;Give Thanks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/Introduction" rel="tag" title="Find jwmittag bookmarks tagged 'Introduction'"&gt;Introduction&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/Rubinius" rel="tag" title="Find jwmittag bookmarks tagged 'Rubinius'"&gt;Rubinius&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/Ruby" rel="tag" title="Find jwmittag bookmarks tagged 'Ruby'"&gt;Ruby&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/http:%2F%2FProgramblings.Com%2F2008%2F11%2F25%2Frubinius-for-the-layman-part-3-try-rubinius-in-20-minutes%2F" rel="tag" title="Find jwmittag bookmarks tagged 'http://Programblings.Com/2008/11/25/rubinius-for-the-layman-part-3-try-rubinius-in-20-minutes/'"&gt;http://Programblings.Com/2008/11/25/rubinius-for-the-layman-part-3-try-rubinius-in-20-minutes/&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/jwmittag/tags/Rubinius%20for%20the%20Layman%20%20Part%203%20-%20Try%20Rubinius%20in%2020%20minutes" rel="tag" title="Find jwmittag bookmarks tagged 'Rubinius for the Layman  Part 3 - Try Rubinius in 20 minutes'"&gt;Rubinius for the Layman  Part 3 - Try Rubinius in 20 minutes&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="Introduction" scheme="http://ma.gnolia.com/tags"/>
+    <category term="Rubinius" scheme="http://ma.gnolia.com/tags"/>
+    <category term="Ruby" scheme="http://ma.gnolia.com/tags"/>
+    <category term="http://Programblings.Com/2008/11/25/rubinius-for-the-layman-part-3-try-rubinius-in-20-minutes/" scheme="http://ma.gnolia.com/tags"/>
+    <category term="Rubinius for the Layman  Part 3 - Try Rubinius in 20 minutes" scheme="http://ma.gnolia.com/tags"/>
+  </entry>
+  <entry>
+    <author>
+      <name>chrisadams</name>
+    </author>
+    <id>tag:ma.gnolia.com,2005:Ma.gnolia-xeyireth</id>
+    <published>2008-11-25T12:47:49-08:00</published>
+    <updated>2008-11-25T12:47:49-08:00</updated>
+    <link href="http://www.cookiecentral.com/faq/#3.5" rel="alternate" type="text/html"/>
+    <link href="http://creativecommons.org/licenses/by-nc-sa/2.5/rdf" rel="license" type="application/rdf+xml"/>
+    <title>The Unofficial Cookie FAQ</title>
+    <content type="html">&lt;p&gt;
+&lt;a href="http://www.cookiecentral.com/faq/#3.5"&gt;&lt;img alt="The Unofficial Cookie FAQ" src="http://ma.gnolia.com/bookmarks/xeyireth/thumbnail" /&gt;&lt;/a&gt;&lt;/p&gt;
+                
+&lt;p&gt;Making sense of how cookies work&lt;/p&gt;
+
+&lt;p&gt;Saved By: &lt;a href="http://ma.gnolia.com/people/chrisadams" title="Visit Chris Adams on Ma.gnolia"&gt;Chris Adams&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/people/chrisadams/bookmarks/xeyireth" title="View The Unofficial Cookie FAQ on Ma.gnolia"&gt;View Details&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/bookmarks/xeyireth/thanks/feed/confirm"&gt;Give Thanks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;a href="http://ma.gnolia.com/people/chrisadams/tags/cookies" rel="tag" title="Find chrisadams bookmarks tagged 'cookies'"&gt;cookies&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/chrisadams/tags/REST" rel="tag" title="Find chrisadams bookmarks tagged 'REST'"&gt;REST&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/chrisadams/tags/ruby" rel="tag" title="Find chrisadams bookmarks tagged 'ruby'"&gt;ruby&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/chrisadams/tags/shopify" rel="tag" title="Find chrisadams bookmarks tagged 'shopify'"&gt;shopify&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/chrisadams/tags/API" rel="tag" title="Find chrisadams bookmarks tagged 'API'"&gt;API&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/chrisadams/tags/mechanize" rel="tag" title="Find chrisadams bookmarks tagged 'mechanize'"&gt;mechanize&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="cookies" scheme="http://ma.gnolia.com/tags"/>
+    <category term="REST" scheme="http://ma.gnolia.com/tags"/>
+    <category term="ruby" scheme="http://ma.gnolia.com/tags"/>
+    <category term="shopify" scheme="http://ma.gnolia.com/tags"/>
+    <category term="API" scheme="http://ma.gnolia.com/tags"/>
+    <category term="mechanize" scheme="http://ma.gnolia.com/tags"/>
+  </entry>
+  <entry>
+    <author>
+      <name>chrisadams</name>
+    </author>
+    <id>tag:ma.gnolia.com,2005:Ma.gnolia-hechisatut</id>
+    <published>2008-11-25T09:44:53-08:00</published>
+    <updated>2008-11-25T09:44:53-08:00</updated>
+    <link href="http://www.rubyinside.com/wirble-tab-completion-and-syntax-coloring-for-irb-336.html" rel="alternate" type="text/html"/>
+    <link href="http://creativecommons.org/licenses/by-nc-sa/2.5/rdf" rel="license" type="application/rdf+xml"/>
+    <title>Wirble: Tab-Completion and Syntax Coloring for irb</title>
+    <content type="html">&lt;p&gt;
+&lt;a href="http://www.rubyinside.com/wirble-tab-completion-and-syntax-coloring-for-irb-336.html"&gt;&lt;img alt="Wirble: Tab-Completion and Syntax Coloring for irb" src="http://ma.gnolia.com/bookmarks/hechisatut/thumbnail" /&gt;&lt;/a&gt;&lt;/p&gt;
+                
+&lt;p&gt;How to make irb more friendly&lt;/p&gt;
+
+&lt;p&gt;Saved By: &lt;a href="http://ma.gnolia.com/people/chrisadams" title="Visit Chris Adams on Ma.gnolia"&gt;Chris Adams&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/people/chrisadams/bookmarks/hechisatut" title="View Wirble: Tab-Completion and Syntax Coloring for irb on Ma.gnolia"&gt;View Details&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/bookmarks/hechisatut/thanks/feed/confirm"&gt;Give Thanks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;a href="http://ma.gnolia.com/people/chrisadams/tags/ruby" rel="tag" title="Find chrisadams bookmarks tagged 'ruby'"&gt;ruby&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/chrisadams/tags/irb" rel="tag" title="Find chrisadams bookmarks tagged 'irb'"&gt;irb&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/chrisadams/tags/syntax%20colouring" rel="tag" title="Find chrisadams bookmarks tagged 'syntax colouring'"&gt;syntax colouring&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="ruby" scheme="http://ma.gnolia.com/tags"/>
+    <category term="irb" scheme="http://ma.gnolia.com/tags"/>
+    <category term="syntax colouring" scheme="http://ma.gnolia.com/tags"/>
+  </entry>
+  <entry>
+    <author>
+      <name>chrisadams</name>
+    </author>
+    <id>tag:ma.gnolia.com,2005:Ma.gnolia-slixizeja</id>
+    <published>2008-11-25T09:44:52-08:00</published>
+    <updated>2008-11-25T09:44:52-08:00</updated>
+    <link href="http://www.rubyinside.com/wirble-tab-completion-and-syntax-coloring-for-irb-336.html" rel="alternate" type="text/html"/>
+    <link href="http://creativecommons.org/licenses/by-nc-sa/2.5/rdf" rel="license" type="application/rdf+xml"/>
+    <title>Wirble: Tab-Completion and Syntax Coloring for irb</title>
+    <content type="html">&lt;p&gt;
+&lt;a href="http://www.rubyinside.com/wirble-tab-completion-and-syntax-coloring-for-irb-336.html"&gt;&lt;img alt="Wirble: Tab-Completion and Syntax Coloring for irb" src="http://ma.gnolia.com/bookmarks/slixizeja/thumbnail" /&gt;&lt;/a&gt;&lt;/p&gt;
+                
+&lt;p&gt;How to make irb more friendly&lt;/p&gt;
+
+&lt;p&gt;Saved By: &lt;a href="http://ma.gnolia.com/people/chrisadams" title="Visit Chris Adams on Ma.gnolia"&gt;Chris Adams&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/people/chrisadams/bookmarks/slixizeja" title="View Wirble: Tab-Completion and Syntax Coloring for irb on Ma.gnolia"&gt;View Details&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/bookmarks/slixizeja/thanks/feed/confirm"&gt;Give Thanks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;a href="http://ma.gnolia.com/people/chrisadams/tags/ruby" rel="tag" title="Find chrisadams bookmarks tagged 'ruby'"&gt;ruby&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/chrisadams/tags/irb" rel="tag" title="Find chrisadams bookmarks tagged 'irb'"&gt;irb&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/chrisadams/tags/syntax%20colouring" rel="tag" title="Find chrisadams bookmarks tagged 'syntax colouring'"&gt;syntax colouring&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="ruby" scheme="http://ma.gnolia.com/tags"/>
+    <category term="irb" scheme="http://ma.gnolia.com/tags"/>
+    <category term="syntax colouring" scheme="http://ma.gnolia.com/tags"/>
+  </entry>
+  <entry>
+    <author>
+      <name>chrisadams</name>
+    </author>
+    <id>tag:ma.gnolia.com,2005:Ma.gnolia-drescuyusce</id>
+    <published>2008-11-25T09:32:30-08:00</published>
+    <updated>2008-11-25T09:32:30-08:00</updated>
+    <link href="http://mechanize.rubyforge.org/mechanize/files/GUIDE_txt.html" rel="alternate" type="text/html"/>
+    <link href="http://creativecommons.org/licenses/by-nc-sa/2.5/rdf" rel="license" type="application/rdf+xml"/>
+    <title>File: GUIDE.txt</title>
+    <content type="html">&lt;p&gt;
+&lt;a href="http://mechanize.rubyforge.org/mechanize/files/GUIDE_txt.html"&gt;&lt;img alt="File: GUIDE.txt" src="http://ma.gnolia.com/bookmarks/drescuyusce/thumbnail" /&gt;&lt;/a&gt;&lt;/p&gt;
+                
+&lt;p&gt;Making sense of how Ruby handles http POST and GET requests using mechanise. Very useful reference&lt;/p&gt;
+
+&lt;p&gt;Saved By: &lt;a href="http://ma.gnolia.com/people/chrisadams" title="Visit Chris Adams on Ma.gnolia"&gt;Chris Adams&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/people/chrisadams/bookmarks/drescuyusce" title="View File: GUIDE.txt on Ma.gnolia"&gt;View Details&lt;/a&gt; | &lt;a href="http://ma.gnolia.com/bookmarks/drescuyusce/thanks/feed/confirm"&gt;Give Thanks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;a href="http://ma.gnolia.com/people/chrisadams/tags/ruby" rel="tag" title="Find chrisadams bookmarks tagged 'ruby'"&gt;ruby&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/chrisadams/tags/mechanise" rel="tag" title="Find chrisadams bookmarks tagged 'mechanise'"&gt;mechanise&lt;/a&gt;, &lt;a href="http://ma.gnolia.com/people/chrisadams/tags/scraping" rel="tag" title="Find chrisadams bookmarks tagged 'scraping'"&gt;scraping&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="ruby" scheme="http://ma.gnolia.com/tags"/>
+    <category term="mechanise" scheme="http://ma.gnolia.com/tags"/>
+    <category term="scraping" scheme="http://ma.gnolia.com/tags"/>
+  </entry>
+</feed>
